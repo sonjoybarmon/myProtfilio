@@ -63,7 +63,7 @@ section{
 }
 #exp_border_1{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, #ffa07a#ff6347);
+    border-image: linear-gradient(180deg, #ffa07a,#ff6347);
     border-image-slice: 1;
 }
 #exp_border_2{
